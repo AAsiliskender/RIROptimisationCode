@@ -1,0 +1,6 @@
+# RIROptimisationCode
+A code for optimising the injection configuration for the RIR reduced order modelling simulatons.
+
+-- The files in the folder are standalone and only require inputs that are; the porosity map (as an .csv file, see example in repository),
+the macro file (as .java, see example file in repository), and the sim file (as .sim, see example in repository).
+-- The information required for optimisation works is mentioned and detailed in the scripts, options and settings are done in-code.

@@ -1,5 +1,0 @@
-setup.py
-RIROpt2D.egg-info/PKG-INFO
-RIROpt2D.egg-info/SOURCES.txt
-RIROpt2D.egg-info/dependency_links.txt
-RIROpt2D.egg-info/top_level.txt

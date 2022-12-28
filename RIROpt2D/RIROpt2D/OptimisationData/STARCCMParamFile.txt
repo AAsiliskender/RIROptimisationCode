@@ -1,1 +1,0 @@
-['starccm+', 'C:', 'C:\\Program Files\\Siemens/15.04.008-R8\\STAR-CCM+15.04.008-R8\\star/bin', 'D:/Ahmeds_Files/PhD/Simulations/Optimisation', '1-Optimisation.sim', 'D:/Ahmeds_Files/PhD/Simulations/Optimisation/Codes/OptimisationFiles', 'automation_macro.java', '12', 'EsZx3xudjt4dptN3dl0GJg', 'o.Xm8HY3DXPnal9STDab4cfy0tYnS00Tt2', 1]

@@ -1,5 +1,0 @@
-setup.py
-PRAXIS.egg-info/PKG-INFO
-PRAXIS.egg-info/SOURCES.txt
-PRAXIS.egg-info/dependency_links.txt
-PRAXIS.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-STAR_CCM.egg-info/PKG-INFO
-STAR_CCM.egg-info/SOURCES.txt
-STAR_CCM.egg-info/dependency_links.txt
-STAR_CCM.egg-info/top_level.txt

@@ -10,3 +10,5 @@ the macro file (as .java, see example file in repository), and the sim file (as 
 -- 'Optimisation Files' folder has some output files to give an example of sim setup and results extracted.
 
 -- No simulation files are here (even for example) because of 25MB upload limit (my files are about 40MB meshed, it fails as an example if unmeshed).
+
+-- Read the java macro to make sure you have matching regions, variables and scenes etc. that change correctly with the optimisation cycle. Other users likely need to change the lines in the macro and its editor to match their simulation file details.
